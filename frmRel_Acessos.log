@@ -1,0 +1,6 @@
+Line 20: Class TabDlg.SSTab of control tabPainel was not a loaded control class.
+Line 50: Class MSChart20Lib.MSChart of control Graf1 was not a loaded control class.
+Line 65: Class MSFlexGridLib.MSFlexGrid of control mfgDados was not a loaded control class.
+Line 90: Class MSComctlLib.ImageList of control ImageList1 was not a loaded control class.
+Line 124: Class MSComctlLib.Toolbar of control tbrBarra was not a loaded control class.
+Line 189: Class Crystal.CrystalReport of control rptRelatorios was not a loaded control class.

@@ -1,0 +1,32 @@
+Line 79: Class BarcodLib.Barcod of control Barcod1 was not a loaded control class.
+Line 116: Class MSMask.MaskEdBox of control mkeDataNascimento was not a loaded control class.
+Line 744: Class MSMask.MaskEdBox of control mkeDataLeitura was not a loaded control class.
+Line 768: Class MSMask.MaskEdBox of control mkeDataImpressaoTicket was not a loaded control class.
+Line 86: The property name _Version in Barcod1 is invalid.
+Line 87: The property name _ExtentX in Barcod1 is invalid.
+Line 88: The property name _ExtentY in Barcod1 is invalid.
+Line 89: The property name _StockProps in Barcod1 is invalid.
+Line 91: The property name BarWidth in Barcod1 is invalid.
+Line 92: The property name Direction in Barcod1 is invalid.
+Line 93: The property name Style in Barcod1 is invalid.
+Line 94: The property name UPCNotches in Barcod1 is invalid.
+Line 95: The property name Alignment in Barcod1 is invalid.
+Line 96: The property name Extension in Barcod1 is invalid.
+Line 122: The property name _ExtentX in mkeDataNascimento is invalid.
+Line 123: The property name _ExtentY in mkeDataNascimento is invalid.
+Line 124: The property name _Version in mkeDataNascimento is invalid.
+Line 125: The property name MaxLength in mkeDataNascimento is invalid.
+Line 135: The property name Mask in mkeDataNascimento is invalid.
+Line 136: The property name PromptChar in mkeDataNascimento is invalid.
+Line 750: The property name _ExtentX in mkeDataLeitura is invalid.
+Line 751: The property name _ExtentY in mkeDataLeitura is invalid.
+Line 752: The property name _Version in mkeDataLeitura is invalid.
+Line 755: The property name MaxLength in mkeDataLeitura is invalid.
+Line 765: The property name Mask in mkeDataLeitura is invalid.
+Line 766: The property name PromptChar in mkeDataLeitura is invalid.
+Line 774: The property name _ExtentX in mkeDataImpressaoTicket is invalid.
+Line 775: The property name _ExtentY in mkeDataImpressaoTicket is invalid.
+Line 776: The property name _Version in mkeDataImpressaoTicket is invalid.
+Line 779: The property name MaxLength in mkeDataImpressaoTicket is invalid.
+Line 789: The property name Mask in mkeDataImpressaoTicket is invalid.
+Line 790: The property name PromptChar in mkeDataImpressaoTicket is invalid.
